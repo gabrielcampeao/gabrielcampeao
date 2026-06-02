@@ -181,12 +181,6 @@ Sistema robusto com carrinho de compras, checkout, simulação de pagamento, pai
   
 <table>
   <tr>
-    <td>
-      <img height="180" src=""/>
-    </td>
-    <td>
-      <img height="180" src=""/>
-    </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
@@ -211,7 +205,7 @@ Sistema robusto com carrinho de compras, checkout, simulação de pagamento, pai
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Contato:
 
 <p align="center">
-  <a href="gabrielcampeao0@gmail.com">
+  <a href="mailto:gabrielcampeao0@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/gabrielcampe%C3%A3o/">
