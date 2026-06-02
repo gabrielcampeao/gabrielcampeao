@@ -182,10 +182,10 @@ Sistema robusto com carrinho de compras, checkout, simulação de pagamento, pai
 <table>
   <tr>
     <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=gabrielcampeao&show_icons=true&count_private=true&rank_icon=github&bg_color=101726&title_color=ed9209&text_color=ffffff&icon_color=ed9209&border_color=ed9209&ring_color=ed9209"/>
+      <img height="180" src=""/>
     </td>
     <td>
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcampeao&layout=compact&langs_count=8&bg_color=101726&title_color=ed9209&text_color=ffffff&border_color=ed9209"/>
+      <img height="180" src=""/>
     </td>
   </tr>
   <tr>
@@ -211,7 +211,7 @@ Sistema robusto com carrinho de compras, checkout, simulação de pagamento, pai
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Contato:
 
 <p align="center">
-  <a href="mailto:gabrielcampeao0@gmail.com">
+  <a href="gabrielcampeao0@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://www.linkedin.com/in/gabrielcampe%C3%A3o/">
