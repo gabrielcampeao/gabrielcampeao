@@ -201,10 +201,4 @@ Sistema robusto com carrinho de compras, checkout, simulação de pagamento, pai
 
 ---
 
-<p align="center">
-<i>"Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores para fazer melhor ainda!"</i>
-<br>
-<strong>- Mario Sergio Cortella</strong>
-</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ed9209,50:1a2640,100:101726&height=120&section=footer&animation=twinkling"/>
