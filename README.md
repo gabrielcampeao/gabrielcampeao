@@ -114,7 +114,7 @@ Bot que busca vagas em múltiplas plataformas, filtra por perfil e gera candidat
 
 Ferramenta que transforma briefings em propostas profissionais com análise inteligente de tarefas, estimativas e cálculo de valores.
 
-[⭐ Visitar]) • [📌 Issues]()
+[⭐ Visitar]() • [📌 Issues]()
 
 </div>
 </td>
