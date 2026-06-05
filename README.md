@@ -7,7 +7,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sobre mim:
 
-Sou desenvolvedor com foco em **Python e Django**, com experiência no desenvolvimento de **sistemas web completos, APIs e aplicações administrativas**.
+Sou desenvolvedor com foco em **Python**, com experiência no desenvolvimento de **sistemas web completos**.
 
 Tenho experiência em:
 
