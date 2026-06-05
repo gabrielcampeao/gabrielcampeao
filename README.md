@@ -1,18 +1,3 @@
-![Gabriel Bill Campeão Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=0:101726,50:1a2640,100:ed9209&text=Gabriel%20Campeaão&desc=Backend%20/%20Full-Stack%20Developer&section=header&reversal=false&textBg=false&animation=fadeIn&fontAlign=50&fontAlignY=48&descAlign=50&descAlignY=62&fontColor=ffffff&descColor=ffffff)
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gabrielcampeao&label=PROFILE+VIEWS&color=ed9209&style=for-the-badge" />
-</p>
-
----
-<!-- ===================== -->
-<!-- Seção de Habilidades -->
-<!-- ===================== -->
-
-
-**Python • Django • REST APIs • Docker • Backend Systems**
-
-Desenvolvedor focado em construir **sistemas web escaláveis, APIs robustas e soluções backend para problemas reais de negócio**.
 
 ---
 <!-- ===================== -->
