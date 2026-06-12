@@ -84,23 +84,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
 ---
 
-<!-- ================ -->
-<!-- Seção de Contato -->
-<!-- ================ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Contato:
-
-<p align="center">
-  <a href="mailto:gabrielcampeao0@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/gabrielcampe%C3%A3o/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="https://vercel.com/gabrielcampeaos-projects">
-    <img src="https://skillicons.dev/icons?i=vercel" />
-  </a>
-</p>
 
 ---
 
