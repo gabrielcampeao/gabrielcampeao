@@ -11,7 +11,7 @@ Sou desenvolvedor com foco em **React**, com experiência no desenvolvimento de 
 
 Tenho experiência em:
 
-- Desenvolvimento com **Node.js, React, TypeScript, NestJS, Next.js**;
+- Desenvolvimento com **Node.js, React.js, TypeScript, Nest.js, Next.js**;
 - Controle de versão com **Git e GitHub**;
 - Banco de dados **MySQL, PostgreSQL**;
 - Conceitos de **Docker** e versionamento de aplicações;
