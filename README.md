@@ -30,7 +30,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
  Desenvolvimento de projetos pessoais para aprimorar minhas habilidades;
 - Criação de aplicações web utilizando **Python**;
-- Estudo de desenvolvimento **Full Stack**;
+- Estudo de desenvolvimento **BackEnd**;
 - Aprendizado sobre **APIs, bancos de dados e arquitetura de software**;
 - Prática com **Git, GitHub e metodologias de desenvolvimento**;
 - Busca constante por novos conhecimentos na área de tecnologia.
