@@ -7,7 +7,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sobre mim:
 
-Sou desenvolvedor com foco em **React**, com experiência no desenvolvimento de **sistemas web completos**.
+Sou desenvolvedor, com experiência no desenvolvimento de **sistemas web completos**.
 
 Tenho experiência em:
 
