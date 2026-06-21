@@ -29,7 +29,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 ## <img src="https://media.giphy.com/media/jS2krunO5UA3mEQhub/giphy.gif" width="30"> O que faço atualmente:
 
  Desenvolvimento de projetos pessoais para aprimorar minhas habilidades;
-- Criação de aplicações web utilizando **React**;
+- Criação de aplicações web;
 - Estudo de desenvolvimento **BackEnd**;
 - Aprendizado sobre **APIs, bancos de dados e arquitetura de software**;
 - Prática com **Git, GitHub e metodologias de desenvolvimento**;
