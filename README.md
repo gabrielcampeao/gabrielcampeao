@@ -1,6 +1,6 @@
 <div align="center">
 
-# [Gabriel Bill Campeão]
+# Gabriel Bill Campeão
 ### Engenheiro de Software
 
 </div>
