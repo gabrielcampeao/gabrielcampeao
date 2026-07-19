@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Ol%C3%A1,%20eu%20sou%20Gabriel%20Bill%20Campe%C3%A3o&fontSize=28&fontColor=ffffff&desc=Desenvolvedor%20de%20Software&descAlignY=65&descSize=20&animation=fadeIn" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Gabriel%20Bill%20Campe%C3%A3o&fontSize=34&fontColor=ffffff&desc=Desenvolvedor%20de%20Software&descAlignY=65&descSize=20&animation=fadeIn" width="100%" alt="banner"/>
 
 ### <span style="color:#38bdf8">Especialista em Automação de Processos</span>
 
@@ -74,9 +74,9 @@ Solução completa para o Departamento de Gestão que digitalizou e automatizou 
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,c&theme=dark" />
 </p>
 
-<p align="center"><b>Banco de Dados &amp; DevOps</b></p>
+<p align="center"><b>Banco de Dados</b></p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb,git,github,linux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,mariadb&theme=dark" />
 </p>
 
 ---
@@ -105,19 +105,6 @@ const focoAtual = {
   curiosidade: "Meus projetos quase sempre começam no papel, antes de virarem código."
 }
 ```
-
----
-
-## Além do Código
-
-<table width="100%">
-<tr>
-<td align="center" width="25%">📷<br><b>Fotografia</b><br><sub>Registrando momentos</sub></td>
-<td align="center" width="25%">🎮<br><b>Games</b><br><sub>Sessões pra relaxar</sub></td>
-<td align="center" width="25%">⚽<br><b>Futebol</b><br><sub>Jogando/Assistindo</sub></td>
-<td align="center" width="25%">💡<br><b>Projetos Pessoais</b><br><sub>Aprendendo &amp; Construindo</sub></td>
-</tr>
-</table>
 
 ---
 
