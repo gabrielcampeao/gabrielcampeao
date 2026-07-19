@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Ol%C3%A1,%20eu%20sou%20Gabriel%20Campe%C3%A3o&fontSize=34&fontColor=ffffff&desc=Desenvolvedor%20de%20Software&descAlignY=65&descSize=20&animation=fadeIn" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Ol%C3%A1,%20eu%20sou%20Gabriel%20Bill%20Campe%C3%A3o&fontSize=28&fontColor=ffffff&desc=Desenvolvedor%20de%20Software&descAlignY=65&descSize=20&animation=fadeIn" width="100%" alt="banner"/>
 
 ### <span style="color:#38bdf8">Especialista em Automação de Processos</span>
 
@@ -13,7 +13,7 @@
 
 ## Sobre Mim
 
-Estudante de Engenharia de Software, prestes a se formar pela **Sua Universidade**, especializado em criar experiências digitais intuitivas com foco forte em design de interface e automação de processos. Gosto de transformar fluxos de trabalho complexos em soluções elegantes e automatizadas que geram impacto real.
+Estudante de Engenharia de Software, atualmente no **segundo trimestre** pela **Sua Universidade**, especializado em criar experiências digitais intuitivas com foco forte em design de interface e automação de processos. Gosto de transformar fluxos de trabalho complexos em soluções elegantes e automatizadas que geram impacto real.
 
 **O que me motiva**
 
@@ -74,9 +74,9 @@ Solução completa para o Departamento de Gestão que digitalizou e automatizou 
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,c&theme=dark" />
 </p>
 
-<p align="center"><b>Banco de Dados</b></p>
+<p align="center"><b>Banco de Dados &amp; DevOps</b></p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mariadb,git,github,linux,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mariadb,mongodb,git,github,linux,postman&theme=dark" />
 </p>
 
 ---
@@ -96,18 +96,28 @@ Solução completa para o Departamento de Gestão que digitalizou e automatizou 
 
 ## Foco Atual & Interesses
 
-javascript
+```javascript
 const focoAtual = {
-  cargoAtual: "Engenhario de Software",
+  cargoAtual: "2º trimestre de Engenharia de Software",
   aprendendo: ["Automação de Processos", "Integração com IA", "Arquitetura de Sistemas"],
   explorando: ["Automação de Processos de Negócio", "Arquitetura de Sistemas", "Deploy em Nuvem"],
   interesses: ["Desenvolvimento Web", "Automação de Negócios", "Mineração de Processos"],
   curiosidade: "Meus projetos quase sempre começam no papel, antes de virarem código."
 }
-
+```
 
 ---
 
+## Além do Código
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">📷<br><b>Fotografia</b><br><sub>Registrando momentos</sub></td>
+<td align="center" width="25%">🎮<br><b>Games</b><br><sub>Sessões pra relaxar</sub></td>
+<td align="center" width="25%">⚽<br><b>Futebol</b><br><sub>Jogando/Assistindo</sub></td>
+<td align="center" width="25%">💡<br><b>Projetos Pessoais</b><br><sub>Aprendendo &amp; Construindo</sub></td>
+</tr>
+</table>
 
 ---
 
