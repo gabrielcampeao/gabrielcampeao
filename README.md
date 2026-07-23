@@ -50,4 +50,3 @@ Atuação em projetos de automação, sistemas corporativos e soluções de cibe
   <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
 </p>
 
----
