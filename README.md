@@ -30,7 +30,6 @@ Atuação em projetos de automação, sistemas corporativos e soluções de cibe
 - Estudo aprofundado de arquitetura de software
 - Aplicação de boas práticas com Git, GitHub e metodologias de desenvolvimento
 
----
 
 ## Tecnologias e ferramentas
 
