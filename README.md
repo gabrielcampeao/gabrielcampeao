@@ -181,12 +181,6 @@ Sistema robusto com carrinho de compras, checkout, simulação de pagamento, pai
   
 <table>
   <tr>
-    <img height="180" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcampeao&layout=compact&langs_count=8&bg_color=101726&title_color=ed9209&text_color=ffffff&border_color=ed9209))"/>
-    </td>
-    <td>
-      <img height="180" src="![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcampeao&layout=compact&langs_count=8&bg_color=101726&title_color=ed9209&text_color=ffffff&border_color=ed9209)"/>
-  </tr>
-  <tr>
     <td colspan="2" align="center">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielcampeao&theme=dark&background=101726&ring=ed9209&fire=ed9209&currStreakLabel=ed9209&stroke=ed9209&border=ed9209&sideLabels=ffffff&dates=ffffff&sideNums=ffffff&currStreakNum=ffffff"/>
     </td>
