@@ -209,7 +209,7 @@ Sistema robusto com carrinho de compras, checkout, simulação de pagamento, pai
   <a href="https://www.linkedin.com/in/gabrielcampe%C3%A3o/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://gabrielcampeao.vercel.app/">
+  <a href="[https://gabrielcampeao.vercel.app/](https://vercel.com/gabrielcampeaos-projects)">
     <img src="https://skillicons.dev/icons?i=vercel" />
   </a>
 </p>
