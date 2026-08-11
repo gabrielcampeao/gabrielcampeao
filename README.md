@@ -45,24 +45,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
   <img src="https://skillicons.dev/icons?i=python,php,html,css,javascript,git,github" />
 </p>
 
-## <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="30"> Frameworks e Bibliotecas:
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,laravel,bootstrap,fastapi" />
-</p>
-
-## <img src="https://media.giphy.com/media/vISmwpBJUNYzukTnVx/giphy.gif" width="30"> Bancos de Dados:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-</p>
-
-
-## <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30"> Plataformas e Serviços:
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=netlify,vercel,firebase,githubactions" />
-</p>
 
 ---
 <!-- ===================== -->
