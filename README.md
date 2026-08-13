@@ -26,12 +26,12 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 
 ## <img src="https://media.giphy.com/media/jS2krunO5UA3mEQhub/giphy.gif" width="30"> O que faço atualmente:
 
-- Desenvolvimento de **aplicações web escaláveis**;
-- Criação de **APIs REST utilizando Django**;
-- Modelagem e integração de **bancos de dados**;
-- Desenvolvimento de **sistemas administrativos e dashboards**;
-- Containerização de aplicações com **Docker**;
-- Aplicação de boas práticas de **arquitetura e organização de código**;
+ Desenvolvimento de projetos pessoais para aprimorar minhas habilidades;
+- Criação de aplicações web utilizando **Python**;
+- Estudo de desenvolvimento **Full Stack**;
+- Aprendizado sobre **APIs, bancos de dados e arquitetura de software**;
+- Prática com **Git, GitHub e metodologias de desenvolvimento**;
+- Busca constante por novos conhecimentos na área de tecnologia.
 
 ---
 <!-- ===================== -->
