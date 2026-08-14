@@ -11,10 +11,12 @@ Sou desenvolvedor com foco em **Python e Django**, com experiência no desenvolv
 
 Tenho experiência em:
 
-- Desenvolvimento de **backend escalável**;
-- **Containerização com Docker**;
-- **CI/CD com GitHub Actions**;
-- Infraestrutura com **Gunicorn e Nginx**;
+- Desenvolvimento com **Python, HTML, CSS e JavaScript**;
+- Controle de versão com **Git e GitHub**;
+- Banco de dados **MySQL**;
+- Conceitos de **Docker** e versionamento de aplicações;
+- Suporte técnico e resolução de problemas.
+
 
 Também atuo em projetos voltados para **automação, sistemas corporativos e soluções de cibersegurança**.
 
