@@ -7,13 +7,13 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sobre mim:
 
-Sou desenvolvedor com foco em **Python**, com experiência no desenvolvimento de **sistemas web completos**.
+Sou desenvolvedor com foco em **React**, com experiência no desenvolvimento de **sistemas web completos**.
 
 Tenho experiência em:
 
-- Desenvolvimento com **Python, HTML, CSS e JavaScript**;
+- Desenvolvimento com **Node.js, React, TypeScript, NestJS, Next.js**;
 - Controle de versão com **Git e GitHub**;
-- Banco de dados **MySQL**;
+- Banco de dados **MySQL, PostgreSQL**;
 - Conceitos de **Docker** e versionamento de aplicações;
 - Suporte técnico e resolução de problemas.
 
@@ -29,7 +29,7 @@ Também atuo em projetos voltados para **automação, sistemas corporativos e so
 ## <img src="https://media.giphy.com/media/jS2krunO5UA3mEQhub/giphy.gif" width="30"> O que faço atualmente:
 
  Desenvolvimento de projetos pessoais para aprimorar minhas habilidades;
-- Criação de aplicações web utilizando **Python**;
+- Criação de aplicações web utilizando **React**;
 - Estudo de desenvolvimento **BackEnd**;
 - Aprendizado sobre **APIs, bancos de dados e arquitetura de software**;
 - Prática com **Git, GitHub e metodologias de desenvolvimento**;
