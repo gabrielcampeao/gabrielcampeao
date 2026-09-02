@@ -17,7 +17,7 @@ Gosto de entender como as peças se encaixam, não só de fazer funcionar.
 - Git e GitHub para controle de versão
 - MySQL, PostgreSQL e MongoDB
 - Docker para empacotar e versionar aplicações
-- Também dou uma mão em suporte técnico e resolução de problemas quando precisa
+- Também dou uma mão em suporte técnico e resolução de problemas quando é preciso
 
 ---
 
