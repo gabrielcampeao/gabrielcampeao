@@ -5,45 +5,44 @@
 
 </div>
 
+## Sobre mim
 
+Trabalho com desenvolvimento web, principalmente no back-end: construo APIs, integro bancos de dados e me envolvo nas decisões de arquitetura dos projetos por onde passo. Ao longo do caminho, já mexi com automação, sistemas corporativos e algumas soluções voltadas para cibersegurança.
 
-## Sobre Mim
+Gosto de entender como as peças se encaixam, não só de fazer funcionar.
 
-Engenheiro de software com experiência em sistemas web, construindo APIs, integrando bancos de dados e trabalhando com arquitetura de software. Já atuei em projetos de automação, sistemas corporativos e soluções de cibersegurança.
+**No dia a dia, uso:**
 
-**Experiência Técnica:**
-
-- **Node.js, TypeScript, NestJS e Next.js**
-- Controle de versão com **Git e GitHub**
-- Bancos de dados **MySQL, PostgreSQL e MongoDB**
-- **Docker** e versionamento de aplicações
-- Suporte técnico e resolução de problemas
+- Node.js, TypeScript, NestJS e Next.js
+- Git e GitHub para controle de versão
+- MySQL, PostgreSQL e MongoDB
+- Docker para empacotar e versionar aplicações
+- Também dou uma mão em suporte técnico e resolução de problemas quando precisa
 
 ---
 
-## Foco Atual
+## No momento
 
-- Projetos pessoais para aprimoramento técnico
-- APIs e serviços backend
+Estou dedicando um tempo a projetos pessoais para evoluir tecnicamente, com foco em:
+
+- APIs e serviços de back-end
 - Arquitetura de software
-- Boas práticas com Git, GitHub e metodologias de desenvolvimento
+- Boas práticas de Git, GitHub e fluxos de desenvolvimento
 
-
-## Tecnologias e Ferramentas
+## Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,nextjs,react&theme=dark" />
 </p>
 
-**Banco de Dados:**
+**Banco de dados**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
 </p>
 
-**Versionamento:**
+**Versionamento**
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
 </p>
-
