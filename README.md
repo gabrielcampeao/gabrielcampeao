@@ -1,60 +1,60 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Ol%C3%A1,%20eu%20sou%20Gabriel%20Campe%C3%A3o&fontSize=34&fontColor=ffffff&desc=Desenvolvedor%20de%20Software&descAlignY=65&descSize=20&animation=fadeIn" width="100%" alt="banner"/>
 
-### <span style="color:#38bdf8">Process Automation Specialist</span>
+### <span style="color:#38bdf8">Especialista em Automação de Processos</span>
 
-[![Website](https://img.shields.io/badge/Website-1a1f2e?style=for-the-badge&logoColor=white)](https://yourwebsite.com)
-[![Resume](https://img.shields.io/badge/Resume-2563eb?style=for-the-badge&logoColor=white)](https://yourresumeurl.com)
+[![Website](https://img.shields.io/badge/Website-334155?style=for-the-badge&logoColor=white)](https://seusite.com)
+[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-2563eb?style=for-the-badge&logoColor=white)](https://linkdoseucurriculo.com)
 
 </div>
 
 <br>
 
-## About Me
+## Sobre Mim
 
-Software Engineering student about to graduate from **Your University**, specializing in creating intuitive digital experiences with a strong focus on UI design and process automation. I love turning complex workflows into elegant, automated solutions that make an impact.
+Estudante de Engenharia de Software, prestes a se formar pela **Sua Universidade**, especializado em criar experiências digitais intuitivas com foco forte em design de interface e automação de processos. Gosto de transformar fluxos de trabalho complexos em soluções elegantes e automatizadas que geram impacto real.
 
-**What Drives Me**
+**O que me motiva**
 
-I'm passionate about solving real problems through code. Whether it's automating tedious processes or crafting beautiful user interfaces, I believe technology should make life easier and more efficient.
+Sou apaixonado por resolver problemas reais através do código. Seja automatizando processos repetitivos ou criando interfaces bonitas, acredito que a tecnologia deve tornar a vida mais fácil e eficiente.
 
 ---
 
-## Featured Projects
+## Projetos em Destaque
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**Hotel Affiliation Platform**
+**Plataforma de Afiliação de Hotéis**
 
-**Automated Guest Registration System**
+**Sistema Automatizado de Cadastro de Hóspedes**
 
-Built during my professional experience, this platform modernized the guest affiliation process for hotel chains.
+Desenvolvida durante minha experiência profissional, essa plataforma modernizou o processo de afiliação de hóspedes para redes de hotéis.
 
-**Impact:**
-- Automated 90% of the registration workflow
-- Eliminated manual data entry errors
-- Reduced processing time from minutes to seconds
+**Impacto:**
+- Automatizou 90% do fluxo de cadastro
+- Eliminou erros de digitação manual
+- Reduziu o tempo de processamento de minutos para segundos
 
-**Tech Stack:** React, PHP, MySQL
+**Stack:** React, PHP, MySQL
 
 </td>
 <td width="50%" valign="top">
 
-**SIPQNGS Platform**
+**Plataforma SIPQNGS**
 
-**Internship & Social Service Management**
+**Gestão de Estágios e Serviço Social**
 
-A comprehensive solution for the Business Management Department that digitized and automated document submission processes.
+Solução completa para o Departamento de Gestão que digitalizou e automatizou os processos de envio de documentos.
 
-**Impact:**
-- Streamlined workflows for internships and social service
-- Eliminated paper-based processes entirely
-- Improved efficiency for students and staff
+**Impacto:**
+- Simplificou os fluxos de estágio e serviço social
+- Eliminou processos totalmente baseados em papel
+- Melhorou a eficiência para estudantes e equipe
 
-**Tech Stack:** Laravel, React, MariaDB, PHP, MySQL, Tailwind
+**Stack:** Laravel, React, MariaDB, PHP, MySQL, Tailwind
 
 </td>
 </tr>
@@ -62,78 +62,78 @@ A comprehensive solution for the Business Management Department that digitized a
 
 ---
 
-## Tech Stack
+## Stack de Tecnologias
 
-<p align="center"><b>Frontend Development</b></p>
+<p align="center"><b>Frontend</b></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,vue&theme=dark" />
 </p>
 
-<p align="center"><b>Backend Development</b></p>
+<p align="center"><b>Backend</b></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,c&theme=dark" />
 </p>
 
-<p align="center"><b>Database &amp; DevOps</b></p>
+<p align="center"><b>Banco de Dados &amp; DevOps</b></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mariadb,git,github,linux,postman&theme=dark" />
 </p>
 
 ---
 
-## GitHub Analytics
+## Estatísticas do GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=gabrielcampeao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=pt-br" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielcampeao&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcampeao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
 
 </div>
 
 ---
 
-## Current Focus & Interests
+## Foco Atual & Interesses
 
 ```javascript
-const currentFocus = {
-  currentRole: "Final year of Software Engineering major",
-  learning: ["Process Automation", "AI Integration", "System Architecture"],
-  exploring: ["Business Process Automation", "System Architecture", "Cloud Deployment"],
-  interests: ["Web Development", "Business Automation", "Process Mining"],
-  funFact: "Projects usually start on paper, before I put them into code."
+const focoAtual = {
+  cargoAtual: "Último ano de Engenharia de Software",
+  aprendendo: ["Automação de Processos", "Integração com IA", "Arquitetura de Sistemas"],
+  explorando: ["Automação de Processos de Negócio", "Arquitetura de Sistemas", "Deploy em Nuvem"],
+  interesses: ["Desenvolvimento Web", "Automação de Negócios", "Mineração de Processos"],
+  curiosidade: "Meus projetos quase sempre começam no papel, antes de virarem código."
 }
 ```
 
 ---
 
-## Beyond Code
+## Além do Código
 
 <table width="100%">
 <tr>
-<td align="center" width="25%">📷<br><b>Photography</b><br><sub>Capturing moments</sub></td>
-<td align="center" width="25%">🎮<br><b>Gaming</b><br><sub>Unwinding sessions</sub></td>
-<td align="center" width="25%">⚽<br><b>Football</b><br><sub>Playing/Watching</sub></td>
-<td align="center" width="25%">💡<br><b>Side Projects</b><br><sub>Learning &amp; Building</sub></td>
+<td align="center" width="25%">📷<br><b>Fotografia</b><br><sub>Registrando momentos</sub></td>
+<td align="center" width="25%">🎮<br><b>Games</b><br><sub>Sessões pra relaxar</sub></td>
+<td align="center" width="25%">⚽<br><b>Futebol</b><br><sub>Jogando/Assistindo</sub></td>
+<td align="center" width="25%">💡<br><b>Projetos Pessoais</b><br><sub>Aprendendo &amp; Construindo</sub></td>
 </tr>
 </table>
 
 ---
 
-## Let's Connect
+## Vamos Conversar
 
 <div align="center">
 
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+Estou sempre aberto a discutir novos projetos, ideias criativas ou oportunidades para fazer parte da sua visão.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1f2e?style=for-the-badge&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Connect With Me](https://img.shields.io/badge/Connect%20With%20Me-2563eb?style=for-the-badge&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
+[![Fale Comigo](https://img.shields.io/badge/Fale%20Comigo-2563eb?style=for-the-badge&logoColor=white)](https://linkedin.com/in/seuperfil)
 
-[![Send an Email](https://img.shields.io/badge/Send%20an%20Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Enviar Email](https://img.shields.io/badge/Enviar%20Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:2563eb&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer" width="100%"/>
 
 </div>
