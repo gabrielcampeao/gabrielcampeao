@@ -74,7 +74,7 @@ Solução completa para o Departamento de Gestão que digitalizou e automatizou 
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,c&theme=dark" />
 </p>
 
-<p align="center"><b>Banco de Dados &amp; DevOps</b></p>
+<p align="center"><b>Banco de Dados</b></p>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=mysql,mariadb,git,github,linux,postman&theme=dark" />
 </p>
@@ -96,28 +96,18 @@ Solução completa para o Departamento de Gestão que digitalizou e automatizou 
 
 ## Foco Atual & Interesses
 
-```javascript
+javascript
 const focoAtual = {
-  cargoAtual: "Último ano de Engenharia de Software",
+  cargoAtual: "Engenhario de Software",
   aprendendo: ["Automação de Processos", "Integração com IA", "Arquitetura de Sistemas"],
   explorando: ["Automação de Processos de Negócio", "Arquitetura de Sistemas", "Deploy em Nuvem"],
   interesses: ["Desenvolvimento Web", "Automação de Negócios", "Mineração de Processos"],
   curiosidade: "Meus projetos quase sempre começam no papel, antes de virarem código."
 }
-```
+
 
 ---
 
-## Além do Código
-
-<table width="100%">
-<tr>
-<td align="center" width="25%">📷<br><b>Fotografia</b><br><sub>Registrando momentos</sub></td>
-<td align="center" width="25%">🎮<br><b>Games</b><br><sub>Sessões pra relaxar</sub></td>
-<td align="center" width="25%">⚽<br><b>Futebol</b><br><sub>Jogando/Assistindo</sub></td>
-<td align="center" width="25%">💡<br><b>Projetos Pessoais</b><br><sub>Aprendendo &amp; Construindo</sub></td>
-</tr>
-</table>
 
 ---
 
