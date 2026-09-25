@@ -92,21 +92,7 @@ Solução completa para o Departamento de Gestão que digitalizou e automatizou 
 
 </div>
 
----
 
-## Foco Atual & Interesses
-
-```javascript
-const focoAtual = {
-  cargoAtual: "2º trimestre de Engenharia de Software",
-  aprendendo: ["Automação de Processos", "Integração com IA", "Arquitetura de Sistemas"],
-  explorando: ["Automação de Processos de Negócio", "Arquitetura de Sistemas", "Deploy em Nuvem"],
-  interesses: ["Desenvolvimento Web", "Automação de Negócios", "Mineração de Processos"],
-  curiosidade: "Meus projetos quase sempre começam no papel, antes de virarem código."
-}
-```
-
----
 
 ## Vamos Conversar
 
