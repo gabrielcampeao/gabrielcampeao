@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=Gabriel%20Bill%20Campe%C3%A3o&fontSize=34&fontColor=ffffff&desc=Desenvolvedor%20de%20Software&descAlignY=65&descSize=20&animation=fadeIn" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Gabriel%20Bill%20Campe%C3%A3o&fontSize=34&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20de%20Software&descAlignY=52&descSize=20&animation=fadeIn" width="100%" alt="banner"/>
 
 ### <span style="color:#38bdf8">Especialista em Automação de Processos</span>
 
@@ -76,7 +76,7 @@ Solução completa para o Departamento de Gestão que digitalizou e automatizou 
 
 <p align="center"><b>Banco de Dados</b></p>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,mariadb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
 </p>
 
 ---
