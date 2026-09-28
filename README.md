@@ -1,112 +1,54 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Gabriel%20Bill%20Campe%C3%A3o&fontSize=34&fontColor=ffffff&fontAlignY=35&desc=Desenvolvedor%20de%20Software&descAlignY=52&descSize=20&animation=fadeIn" width="100%" alt="banner"/>
-
-### <span style="color:#38bdf8">Especialista em Automação de Processos</span>
-
-[![Website](https://img.shields.io/badge/Website-334155?style=for-the-badge&logoColor=white)](https://seusite.com)
-[![Currículo](https://img.shields.io/badge/Curr%C3%ADculo-2563eb?style=for-the-badge&logoColor=white)](https://linkdoseucurriculo.com)
-
-</div>
-
-<br>
-
-## Sobre Mim
-
-Estudante de Engenharia de Software, atualmente no **segundo trimestre** pela **Sua Universidade**, especializado em criar experiências digitais intuitivas com foco forte em design de interface e automação de processos. Gosto de transformar fluxos de trabalho complexos em soluções elegantes e automatizadas que geram impacto real.
-
-**O que me motiva**
-
-Sou apaixonado por resolver problemas reais através do código. Seja automatizando processos repetitivos ou criando interfaces bonitas, acredito que a tecnologia deve tornar a vida mais fácil e eficiente.
 
 ---
+<!-- ===================== -->
+<!--     Seção de Sobre    -->
+<!-- ===================== -->
 
-## Projetos em Destaque
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Sobre mim:
 
-**Plataforma de Afiliação de Hotéis**
+Sou desenvolvedor, com experiência no desenvolvimento de **sistemas web completos**.
 
-**Sistema Automatizado de Cadastro de Hóspedes**
+Tenho experiência em:
 
-Desenvolvida durante minha experiência profissional, essa plataforma modernizou o processo de afiliação de hóspedes para redes de hotéis.
+- Desenvolvimento com **Node.js, React.js, TypeScript, Nest.js, Next.js**;
+- Controle de versão com **Git e GitHub**;
+- Banco de dados **MySQL, PostgreSQL**;
+- Conceitos de **Docker** e versionamento de aplicações;
+- Suporte técnico e resolução de problemas.
 
-**Impacto:**
-- Automatizou 90% do fluxo de cadastro
-- Eliminou erros de digitação manual
-- Reduziu o tempo de processamento de minutos para segundos
 
-**Stack:** React, PHP, MySQL
-
-</td>
-<td width="50%" valign="top">
-
-**Plataforma SIPQNGS**
-
-**Gestão de Estágios e Serviço Social**
-
-Solução completa para o Departamento de Gestão que digitalizou e automatizou os processos de envio de documentos.
-
-**Impacto:**
-- Simplificou os fluxos de estágio e serviço social
-- Eliminou processos totalmente baseados em papel
-- Melhorou a eficiência para estudantes e equipe
-
-**Stack:** Laravel, React, MariaDB, PHP, MySQL, Tailwind
-
-</td>
-</tr>
-</table>
+Também atuo em projetos voltados para **automação, sistemas corporativos e soluções de cibersegurança**.
 
 ---
+<!-- ===================== -->
+<!--  Seção de O que faço  -->
+<!-- ===================== -->
 
-## Stack de Tecnologias
 
-<p align="center"><b>Frontend</b></p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,vue&theme=dark" />
-</p>
+## <img src="https://media.giphy.com/media/jS2krunO5UA3mEQhub/giphy.gif" width="30"> O que faço atualmente:
 
-<p align="center"><b>Backend</b></p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,c&theme=dark" />
-</p>
-
-<p align="center"><b>Banco de Dados</b></p>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&theme=dark" />
-</p>
+ Desenvolvimento de projetos pessoais para aprimorar minhas habilidades;
+- Criação de aplicações web;
+- Estudo de desenvolvimento **BackEnd**;
+- Aprendizado sobre **APIs, bancos de dados e arquitetura de software**;
+- Prática com **Git, GitHub e metodologias de desenvolvimento**;
+- Busca constante por novos conhecimentos na área de tecnologia.
 
 ---
-
-## Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielcampeao&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&locale=pt-br" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielcampeao&theme=tokyonight&hide_border=true&background=0d1117" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcampeao&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165"/>
-
-</div>
+<!-- ===================== -->
+<!-- Seção de Ferramentas -->
+<!-- ===================== -->
 
 
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologias e Ferramentas:
 
-## Vamos Conversar
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,nestjs,nextjs" />
+</p>
 
-<div align="center">
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Banco De dados:
 
-Estou sempre aberto a discutir novos projetos, ideias criativas ou oportunidades para fazer parte da sua visão.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-334155?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seuperfil)
-[![Fale Comigo](https://img.shields.io/badge/Fale%20Comigo-2563eb?style=for-the-badge&logoColor=white)](https://linkedin.com/in/seuperfil)
-
-[![Enviar Email](https://img.shields.io/badge/Enviar%20Email-2563eb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@email.com)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
