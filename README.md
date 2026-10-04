@@ -1,12 +1,19 @@
+<div align="center">
+
+# [Gabriel Bill Campeão]
+### Engenheiro de Software
+
+</div>
+
 ---
 
 ## Sobre mim
 
-Desenvolvedor backend com experiência no desenvolvimento de sistemas web, focado em construção de APIs, integração com bancos de dados e arquitetura de software.
+Engenheiro de software com experiência no desenvolvimento de sistemas web, focado em construção de APIs, integração com bancos de dados e arquitetura de software.
 
 **Experiência técnica:**
 
-- Desenvolvimento com **Node.js, TypeScript e Nest.js**
+- Desenvolvimento com **Node.js, TypeScript, NestJS e Next.js**
 - Controle de versão com **Git e GitHub**
 - Bancos de dados **MySQL, PostgreSQL e MongoDB**
 - Conceitos de **Docker** e versionamento de aplicações
@@ -28,7 +35,7 @@ Atuação em projetos de automação, sistemas corporativos e soluções de cibe
 ## Tecnologias e ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,nextjs,react&theme=dark" />
 </p>
 
 **Banco de dados:**
