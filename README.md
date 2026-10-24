@@ -1,47 +1,52 @@
-<div align="center">
+ <div align="center">
 
-# Gabriel Bill Campeão
-### Engenheiro de Software
+Gabriel Campeão
+
+Software Engineer
 
 </div>
 
-## Sobre mim
+About Me
 
-Trabalho com desenvolvimento web, principalmente no back-end: construo APIs, integro bancos de dados e me envolvo nas decisões de arquitetura dos projetos por onde passo. Ao longo do caminho, já mexi com automação, sistemas corporativos e algumas soluções voltadas para cibersegurança.
+I work in web development, primarily on the back end, building APIs, integrating databases, and contributing to architectural decisions across the projects I work on. Along the way, I've gained experience with automation, enterprise systems, and solutions focused on cybersecurity.
 
-Gosto de entender como as peças se encaixam, não só de fazer funcionar.
+I enjoy understanding how all the pieces fit together, not just making things work.
 
-**No dia a dia, uso:**
+Technologies and tools I use:
 
-- Node.js, TypeScript, NestJS e Next.js
-- Git e GitHub para controle de versão
-- MySQL, PostgreSQL e MongoDB
-- Docker para empacotar e versionar aplicações
-- Também dou uma mão em suporte técnico e resolução de problemas quando é preciso
+Node.js, TypeScript, NestJS, and Next.js
 
----
+Git and GitHub for version control
 
-## No momento
+MySQL, PostgreSQL, and MongoDB
 
-Estou dedicando um tempo a projetos pessoais para evoluir tecnicamente, com foco em:
+Docker for containerization and application management
 
-- APIs e serviços de back-end
-- Arquitetura de software
-- Boas práticas de Git, GitHub e fluxos de desenvolvimento
+Technical support and troubleshooting when needed
 
-## Stack
+Currently
+
+I'm dedicating time to personal projects to strengthen my technical skills, with a focus on:
+
+Back-end APIs and services
+
+Software architecture
+
+Git and GitHub best practices and development workflows
+
+Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,nextjs,react&theme=dark" />
 </p>
 
-**Banco de dados**
+Databases
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
 </p>
 
-**Versionamento**
+Version Control & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
