@@ -17,7 +17,6 @@ I enjoy understanding how all the pieces fit together, not just making things wo
 - Git and GitHub for version control
 - MySQL, PostgreSQL, and MongoDB
 - Docker and Kubernetes for containerization and orchestration
-- HashiCorp Vault for secrets management
 - Technical support and troubleshooting when needed
 
 ---
@@ -57,11 +56,12 @@ I'm dedicating time to personal projects to strengthen my technical skills, with
 
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/AGY-AI_Tool-6E56CF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-**Secrets Management**
+**Security**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" />
+  <img src="https://skillicons.dev/icons?i=kali&theme=dark" />
 </p>
