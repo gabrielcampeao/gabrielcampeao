@@ -1,42 +1,8 @@
- <div align="center">
-
-# Gabriel Campeão
-### Software Engineer
-
-</div>
-
-## About Me
-
-I work in web development, primarily on the back end, building APIs, integrating databases, and contributing to architectural decisions across the projects I work on. Along the way, I've gained experience with automation, enterprise systems, and cybersecurity-focused solutions.
-
-I enjoy understanding how all the pieces fit together, not just making things work.
-
-**Technologies and tools I use:**
-
-- Node.js, TypeScript, NestJS, and Next.js
-- Git and GitHub for version control
-- MySQL, PostgreSQL, and MongoDB
-- Docker and Kubernetes for containerization and orchestration
-- Technical support and troubleshooting when needed
-
----
-
-## Currently
-
-I'm dedicating time to personal projects to strengthen my technical skills, with a focus on:
-
-- Back-end APIs and services
-- Software architecture
-- Git and GitHub best practices and development workflows
-- AI-assisted software development
-
----
-
-Tech Stack
+## Tech Stack
 
 <p align="center">
 
-Languages & Frameworks
+**Languages & Frameworks**
 
 </p>
 
@@ -46,7 +12,7 @@ Languages & Frameworks
 
 <p align="center">
 
-Databases
+**Databases**
 
 </p>
 
@@ -56,17 +22,21 @@ Databases
 
 <p align="center">
 
-DevOps & Infrastructure
+**DevOps & Infrastructure**
 
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,grafana,vault,git,github&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BullMQ-CB3837?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 <p align="center">
 
-AI & Development Tools
+**AI & Development Tools**
 
 </p>
 
