@@ -50,11 +50,10 @@ I'm dedicating time to personal projects to strengthen my technical skills, with
 <h3 align="center">DevOps & Infrastructure</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,grafana,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,grafana,vault,git,github,githubactions&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white" />
   <img src="https://img.shields.io/badge/BullMQ-CB3837?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
