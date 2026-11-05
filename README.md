@@ -16,7 +16,7 @@ I enjoy understanding how all the pieces fit together, not just making things wo
 
 - Node.js, TypeScript, NestJS, and Next.js
 - Git and GitHub for version control
-- MySQL, PostgreSQL, and MongoDB
+- MySQL, PostgreSQL, MongoDB, and Redis
 - Docker and Kubernetes for containerization and orchestration
 - Technical support and troubleshooting when needed
 
@@ -28,7 +28,8 @@ I'm dedicating time to personal projects to strengthen my technical skills, with
 
 - Back-end APIs and services
 - Software architecture
-- Git and GitHub best practices and development workflows
+- Database design and optimization
+- CI/CD pipelines and automation
 - AI-assisted software development
 
 ---
@@ -41,20 +42,29 @@ I'm dedicating time to personal projects to strengthen my technical skills, with
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,nextjs,react&theme=dark" />
 </p>
 
-<h3 align="center">Databases</h3>
+<h3 align="center">Databases & Caching</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mariadb,sqlite,redis,elasticsearch,cassandra&theme=dark" />
+</p>
+
+<h3 align="center">Messaging & Background Jobs</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BullMQ-CB3837?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 <h3 align="center">DevOps & Infrastructure</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,grafana,vault,git,github,githubactions&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,grafana,vault&theme=dark" />
 </p>
 
+<h3 align="center">CI/CD & Version Control</h3>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/BullMQ-CB3837?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 <h3 align="center">AI & Development Tools</h3>
