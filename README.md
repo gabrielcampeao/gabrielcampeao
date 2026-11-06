@@ -42,10 +42,17 @@ I'm dedicating time to personal projects to strengthen my technical skills, with
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,nextjs,react&theme=dark" />
 </p>
 
-<h3 align="center">Databases & Caching</h3>
+<h3 align="center">Databases</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,mariadb,sqlite,redis,elasticsearch,cassandra&theme=dark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="48" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="48" alt="MariaDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="48" alt="SQLite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="48" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="48" alt="Elasticsearch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cassandra/cassandra-original.svg" height="48" alt="Cassandra" />
 </p>
 
 <h3 align="center">Messaging & Background Jobs</h3>
@@ -64,7 +71,7 @@ I'm dedicating time to personal projects to strengthen my technical skills, with
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="48" alt="GitHub Actions" />
 </p>
 
 <h3 align="center">AI & Development Tools</h3>
