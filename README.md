@@ -63,8 +63,12 @@ I'm dedicating time to personal projects to strengthen my technical skills, with
 <h3 align="center">CI/CD & Version Control</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github&theme=dark" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="48" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Continuous_Integration-CI-2088FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Continuous_Delivery-CD-2E8B57?style=for-the-badge" />
 </p>
 
 <h3 align="center">AI & Development Tools</h3>
