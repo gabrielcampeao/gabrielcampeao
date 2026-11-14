@@ -14,7 +14,7 @@ I enjoy understanding how all the pieces fit together, not just making things wo
 
 **Technologies and tools I use:**
 
-- Node.js, TypeScript, NestJS, Next.js, Python, and FastAPI
+- Node.js, TypeScript, NestJS, and Next.js
 - Git and GitHub for version control
 - MySQL, PostgreSQL, MongoDB, and Redis
 - Docker and Kubernetes for containerization and orchestration
@@ -39,7 +39,7 @@ I'm dedicating time to personal projects to strengthen my technical skills, with
 <h3 align="center">Languages & Frameworks</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nestjs,nextjs,react,fastapi&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,nextjs,react&theme=dark" />
 </p>
 
 <h3 align="center">Databases</h3>
