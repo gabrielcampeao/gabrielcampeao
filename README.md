@@ -57,7 +57,7 @@ I'm dedicating time to personal projects to strengthen my technical skills, with
 <h3 align="center">DevOps & Infrastructure</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,grafana,vault&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,grafana&theme=dark" />
 </p>
 
 <h3 align="center">CI/CD & Version Control</h3>
