@@ -66,10 +66,6 @@ I'm dedicating time to personal projects to strengthen my technical skills, with
   <img src="https://skillicons.dev/icons?i=git,github,githubactions&theme=dark" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Continuous_Integration-CI-2088FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Continuous_Delivery-CD-2E8B57?style=for-the-badge" />
-</p>
 
 <h3 align="center">AI & Development Tools</h3>
 
